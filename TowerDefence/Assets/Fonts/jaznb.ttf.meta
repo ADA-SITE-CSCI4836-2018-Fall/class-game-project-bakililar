@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: df4944cbd56b34bde98434660e33cab3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JIS AZN
+  fontNames:
+  - JIS AZN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38cc25ff83f2c4feebf84c925d9449fb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

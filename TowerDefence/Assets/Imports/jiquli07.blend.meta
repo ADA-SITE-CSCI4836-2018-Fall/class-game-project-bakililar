@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 40e065526b7b64953a230b9df9826e2c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car
+    100002: Cube
+    100004: Cube_001
+    100006: Cube_002
+    100008: Cube_004
+    100010: Cylinder
+    100012: Empty
+    100014: Empty_001
+    100016: FrontLight_001
+    100018: //RootNode
+    100020: Kapot
+    100022: Plane
+    100024: Plane_001
+    100026: Plane_002
+    100028: Plane_003
+    100030: Plane_004
+    100032: Plane_005
+    100034: Torus
+    100036: WHEEL
+    100038: WHEEL_001
+    100040: Cube_003
+    400000: Car
+    400002: Cube
+    400004: Cube_001
+    400006: Cube_002
+    400008: Cube_004
+    400010: Cylinder
+    400012: Empty
+    400014: Empty_001
+    400016: FrontLight_001
+    400018: //RootNode
+    400020: Kapot
+    400022: Plane
+    400024: Plane_001
+    400026: Plane_002
+    400028: Plane_003
+    400030: Plane_004
+    400032: Plane_005
+    400034: Torus
+    400036: WHEEL
+    400038: WHEEL_001
+    400040: Cube_003
+    2100000: WINA
+    2100002: Material
+    2100004: Setka
+    2100006: Main_001
+    2100008: unnamed
+    2300000: Car
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Cube_002
+    2300008: Cube_004
+    2300010: Cylinder
+    2300012: FrontLight_001
+    2300014: Kapot
+    2300016: Plane
+    2300018: Plane_001
+    2300020: Plane_002
+    2300022: Plane_003
+    2300024: Plane_004
+    2300026: Plane_005
+    2300028: Torus
+    2300030: WHEEL
+    2300032: WHEEL_001
+    2300034: Cube_003
+    3300000: Car
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Cube_002
+    3300008: Cube_004
+    3300010: Cylinder
+    3300012: FrontLight_001
+    3300014: Kapot
+    3300016: Plane
+    3300018: Plane_001
+    3300020: Plane_002
+    3300022: Plane_003
+    3300024: Plane_004
+    3300026: Plane_005
+    3300028: Torus
+    3300030: WHEEL
+    3300032: WHEEL_001
+    3300034: Cube_003
+    4300000: Cube_004
+    4300002: Plane_005
+    4300004: Cube_002
+    4300006: Plane_001
+    4300008: Plane
+    4300010: Torus
+    4300012: Plane_003
+    4300014: Cube_001
+    4300016: Car
+    4300018: Kapot
+    4300020: FrontLight_001
+    4300022: Cylinder
+    4300024: Cube
+    4300026: Plane_002
+    4300028: WHEEL
+    4300030: Plane_004
+    4300032: WHEEL_001
+    4300034: Cube_003
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
